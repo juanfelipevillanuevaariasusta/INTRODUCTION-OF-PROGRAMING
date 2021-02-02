@@ -1,2 +1,3 @@
 # INTRODUCTION-OF-PROGRAMING
-# this is my first homework about how can you go to my home since the central square
+# hi, i am beginnig in the world of programing and my expectatives are finally my carrer; my hobbys are play soccer and play video games or make excercise
+
