@@ -1,0 +1,73 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+139
+"SOFTCOMPAREAGE
+MAKER:JUAN FELIPE VILLANUEVA ARIAS
+This software compare birth of two person's
+imput the year birth of the first person"
+5
+1
+7
+v_year1
+4
+1
+41
+"Tipe/imput the age of the second person"
+5
+1
+7
+v_year2
+7
+0
+1
+32
+v_year1 > 2021 OR v_year2 > 2021
+6
+2
+6
+v_age1
+14
+2021 - v_year1
+6
+v_age2
+14
+2021 - v_year2
+7
+0
+1
+15
+v_age1 = v_age2
+7
+0
+1
+15
+v_age1 < v_age2
+4
+1
+26
+"the youngest is", v_year2
+13
+4
+1
+26
+"the youngest is", v_year1
+13
+13
+4
+1
+19
+"the bolt are same"
+13
+13
+4
+1
+71
+"ERR: Some of the year types are wrong - both should be less than 2021"
+13
+1
