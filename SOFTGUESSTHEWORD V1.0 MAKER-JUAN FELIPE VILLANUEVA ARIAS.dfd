@@ -1,0 +1,487 @@
+ Dfd (c)
+1
+1
+8
+0
+0
+4
+1
+100
+"SOFTGUESSTHEWORD V1.0 MAKER-JUAN FELIPE VILLANUEVA ARIAS-In thi software can you play a short game"
+4
+1
+27
+"Please put/type your name"
+5
+1
+6
+v_name
+4
+1
+15
+"Ok Lte's play"
+12
+1
+8
+P_random
+1
+8
+v_random
+4
+1
+75
+"Congrats you are the best", v_name ,"if you wanna play again please put 1"
+5
+1
+14
+v_number_again
+7
+0
+1
+18
+v_number_again = 1
+4
+1
+34
+"Thanks for play this game",v_name
+13
+12
+1
+8
+P_random
+1
+8
+v_random
+13
+1
+2
+1
+8
+P_random
+1
+8
+v_random
+1
+54
+in this sub-program can see the word that you will use
+6
+1
+8
+v_random
+1
+0
+6
+1
+8
+v_random
+13
+1 + random(3)
+7
+0
+1
+12
+v_random = 1
+7
+0
+1
+12
+v_random = 2
+4
+1
+38
+"now try to guess the word: _._._._._"
+12
+1
+7
+P_WORD3
+1
+7
+v_word3
+12
+1
+9
+P_WORD3_F
+1
+7
+v_word3
+13
+4
+1
+34
+"now try to guess the word: _._._"
+12
+1
+7
+P_WORD2
+1
+7
+v_word2
+12
+1
+9
+P_WORD2_F
+1
+7
+v_word2
+13
+13
+4
+1
+38
+"now try to guess the word: _._._._._"
+12
+1
+7
+P_WORD1
+1
+6
+v_word
+12
+1
+9
+P_WORD1_F
+1
+6
+v_word
+13
+3
+2
+1
+7
+P_WORD1
+1
+6
+v_word
+1
+48
+In this sub-program can you guess the first word
+4
+1
+44
+"please choose any word that you wanna like"
+5
+1
+9
+v_choose1
+9
+1
+89
+v_choose1 != 8 OR v_choose1 != 16 OR v_choose1 != 22 OR v_choose1 != 20 OR v_choose1 != 5
+4
+1
+17
+"Sorry try again"
+5
+1
+9
+v_choose1
+11
+7
+0
+1
+12
+v_choose = 8
+7
+0
+1
+13
+v_choose = 16
+7
+0
+1
+13
+v_choose = 22
+7
+0
+1
+13
+v_choose = 20
+7
+0
+1
+12
+v_choose = 5
+13
+4
+1
+20
+"Correct: _._._._.E"
+13
+13
+4
+1
+20
+"Correct: _._._.S._"
+13
+13
+4
+1
+20
+"Correct: _._.U._._"
+13
+13
+4
+1
+20
+"Correct: _.O._._._"
+13
+13
+4
+1
+20
+"Correct: H._._._._"
+13
+3
+2
+1
+9
+P_WORD1_F
+1
+6
+v_word
+1
+46
+In this sub-program can you see the final word
+4
+1
+100
+"If you know the word can you try guessing the word but if you don't know the word put the number 0"
+5
+1
+11
+v_choose1_F
+9
+1
+18
+v_choose1 != HOUSE
+4
+1
+67
+"Sorry try again or if you don't konw that please put the number 0"
+7
+0
+1
+13
+v_choose1 = 0
+13
+12
+1
+7
+P_WORD1
+1
+6
+v_word
+13
+11
+3
+2
+1
+7
+P_WORD2
+1
+7
+v_word2
+1
+49
+In this sub-program can you guess the Second word
+4
+1
+46
+"please choose any number that you wanna like"
+5
+1
+9
+v_choose2
+9
+1
+51
+v_choose2 != 3 OR v_choose2 != 1 OR v_choose2 != 21
+4
+1
+17
+"Sorry try again"
+5
+1
+9
+v_choose2
+11
+7
+0
+1
+12
+v_choose = 3
+7
+0
+1
+12
+v_choose = 1
+4
+1
+16
+"Correct: _._.T"
+13
+4
+1
+16
+"Correct: _.A._"
+13
+13
+4
+1
+16
+"Correct: C._._"
+13
+3
+2
+1
+9
+P_WORD2_F
+1
+7
+v_word2
+1
+46
+In this sub-program can you see the final word
+4
+1
+100
+"If you know the word can you try guessing the word but if you don't know the word put the number 0"
+5
+1
+11
+v_choose2_F
+9
+1
+16
+v_choose2 != CAT
+4
+1
+67
+"Sorry try again or if you don't konw that please put the number 0"
+7
+0
+1
+13
+v_choose2 = 0
+13
+12
+1
+7
+P_WORD2
+1
+7
+v_word2
+13
+11
+3
+2
+1
+7
+P_WORD3
+1
+7
+v_word3
+1
+48
+In this sub-program can you guess the third word
+4
+1
+44
+"please choose any word that you wanna like"
+5
+1
+9
+v_choose3
+9
+1
+70
+v_choose3 != 17 OR v_choose3 != 1 OR v_choose3 != 5 OR v_choose3 != 19
+4
+1
+17
+"Sorry try again"
+5
+1
+9
+v_choose3
+11
+7
+0
+1
+13
+v_choose = 17
+7
+0
+1
+12
+v_choose = 1
+7
+0
+1
+12
+v_choose = 5
+4
+1
+20
+"Correct: _._._._.R"
+13
+4
+1
+20
+"Correct: _._._.E._"
+13
+13
+4
+1
+20
+"Correct: _.A._._._"
+13
+13
+4
+1
+20
+"Correct: P._.P._._"
+13
+3
+2
+1
+9
+P_WORD3_F
+1
+7
+v_word3
+1
+46
+In this sub-program can you see the final word
+4
+1
+100
+"If you know the word can you try guessing the word but if you don't know the word put the number 0"
+5
+1
+11
+v_choose3_F
+9
+1
+18
+v_choose3 != PAPER
+4
+1
+67
+"Sorry try again or if you don't konw that please put the number 0"
+7
+0
+1
+13
+v_choose3 = 0
+13
+12
+1
+7
+P_WORD3
+1
+7
+v_word3
+13
+11
+3
